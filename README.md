@@ -7,9 +7,9 @@ provide the best possible Eve experience on the .NET platform.
 Cross platform
 --------------
 Written and maintained by the same author of the Eve Framework, Eve.NET is 
-delivered as a portable library (PCL) which runs seamlessly on Xamarin.iOS, 
-Xamarin.Android, Windows Phone 8.1 and Windows 8, .NET45. We use Eve.NET 
-internally to power our iOS, Web and Windows applications.
+delivered as .NET Standard (v1.4) compatible assembly, which is supported 
+by a number of platforms: NET Core, NET Framework 4.6.1, Mono 4.6, 
+Xamarin.iOS, Xamarin.Android, UWP 10.  
 
 Usage
 -----
