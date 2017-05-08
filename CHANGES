@@ -6,7 +6,7 @@ v0.3.0.0
 
 Not yet released.
 
-- Target .NET Standard 1.4.
+- Set .NET Standard 1.4 as build target (drop PCL profile).
 
 v0.2.0.0
 ========
