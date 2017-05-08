@@ -162,4 +162,3 @@ NuGet.exe
 # Xamarin Studio
 *.userprefs
 .vs/
-.nupkg/
