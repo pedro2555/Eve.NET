@@ -21,6 +21,7 @@
       <OutputPath>..\bin\</OutputPath>
       <RepositoryUrl>https://github.com/nicolaiarocci/Eve.NET</RepositoryUrl>
       <PackageTags />
+      <Version>0.3.0</Version>
     </PropertyGroup>
     <ItemGroup>
       <PackageReference Include="Microsoft.NETCore.Portable.Compatibility" Version="1.0.1" />
